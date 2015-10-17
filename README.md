@@ -10,5 +10,5 @@ Simple Hybrid News Apps with Cordova and Onsen UI Framework
 ## Development Instructions
 
 1. Clone or download this project
-2. Via CLI, run cordova platform add android
-3. cordova run android
+2. Via CLI, run `cordova platform add android`
+3. `cordova run android`
